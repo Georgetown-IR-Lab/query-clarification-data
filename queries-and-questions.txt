@@ -1,0 +1,448 @@
+query:      "indigestion"
+question:   "Indigestion may be caused by:"
+answers:
+            "Intense smells" (wrong)
+            "Smoking tobacco" (correct)
+            "High blood pressure" (wrong)
+            "Excessive physical activity" (wrong)
+
+
+query:      "dropsy disease"
+question:   "Edema may be caused by:"
+answers:
+            "Allergies" (wrong)
+            "Salmonellosis" (wrong)
+            "Hormonal changes" (correct)
+            "Heart problems" (wrong)
+
+
+query:      "profuse sweating"
+question:   "Hyperhidrosis usually affects:"
+answers:
+            "Back" (wrong)
+            "Scalp" (wrong)
+            "Cheecks" (wrong)
+            "Hands and feet" (correct)
+
+
+query:      "suicidal thoughts"
+question:   "What is "suicidal ideation"?"
+answers:
+            "The active planning of a suicidal strategy" (wrong)
+            "The act of encouraging someone else to commit suicide" (wrong)
+            "The act of showing suicidal intentions in order to draw attention form others" (wrong)
+            "The set of thoughts that a person has when considering suicide" (correct)
+
+
+query:      "slow heart rate"
+question:   "Which category of infants is more likely to show a slow heart rate?"
+answers:
+            "Premature babies" (correct)
+            "Babies who are born overdue" (wrong)
+            "Overweight babies" (wrong)
+            "Babies with malformed bones" (wrong)
+
+
+query:      "graves disease"
+question:   "What is a common symptom of Grave's disease?"
+answers:
+            "Slow heart beats" (wrong)
+            "Weight gain" (wrong)
+            "Weak muscles" (correct)
+            "Depression of a person's eyes" (wrong)
+
+
+query:      "excessive burping"
+question:   "Excessive ructus can NOT be treated by:"
+answers:
+            "Avoiding drinking through a straw" (wrong)
+            "Taking an antacid" (wrong)
+            "Eating slowly" (wrong)
+            "Swallowing air" (correct)
+
+
+query:      "how to lose weight"
+question:   "Which of these is UNLIKELY to lead to weight loss?"
+answers:
+            "Avoiding beer" (wrong)
+            "Avoiding fruit" (wrong)
+            "A low protein diet" (correct)
+            "A low carb diet" (wrong)
+
+
+query:      "hair loss in women causes"
+question:   "Alopecia in women is UNLIKELY to be caused by"
+answers:
+            "Insomnia" (correct)
+            "Hormonal imbalance" (wrong)
+            "Stress" (wrong)
+            "Pregnancy" (wrong)
+
+
+query:      "fear of heights"
+question:   "Which of the following is NOT a common cause of acrophobia?"
+answers:
+            "Nervous reactions observed in authority figures" (wrong)
+            "Depression" (correct)
+            "Traumatic experiences" (wrong)
+            "Conditioning" (wrong)
+
+
+query:      "leg blood clot symptoms"
+question:   "Which of these symptoms IS NOT associated with leg blood clots?"
+answers:
+            "Pain in the leg" (wrong)
+            "Warmth over the affected area" (wrong)
+            "Headache" (correct)
+            "Change in skin color" (wrong)
+
+
+query:      "can't sleep"
+question:   "Which of the following is NOT a common cause of insomnia?"
+answers:
+            "Consuming alcoholic beverages" (wrong)
+            "Consuming foods high in potassium" (correct)
+            "Consuming caffeine" (wrong)
+            "Worrying about falling asleep" (wrong)
+
+
+query:      "hairloss"
+question:   "Alopecia is most often caused by"
+answers:
+            "Insomnia" (wrong)
+            "Severe stress" (correct)
+            "Sedentary behavior" (wrong)
+            "Too much excercise" (wrong)
+
+
+query:      "difficulty breathing"
+question:   "Which of the following is NOT a common cause of dyspnea?"
+answers:
+            "Asthma" (wrong)
+            "Arthralgia" (correct)
+            "Pneumothorax" (wrong)
+            "Epiglottitis" (wrong)
+
+
+query:      "body odor"
+question:   "Ozochrotia is most likely to be caused by:"
+answers:
+            "Anti-perspirants" (wrong)
+            "Triclosan" (wrong)
+            "Hereditary factors / generics" (correct)
+            "Regular exercise" (wrong)
+
+
+query:      "salivary gland stones"
+question:   "What is an effective way to remove salivary gland stones?"
+answers:
+            "Incision of mediastinum" (wrong)
+            "Septoplasy" (wrong)
+            "Sialoendoscopy" (correct)
+            "salivary conducts rhinoplasty" (wrong)
+
+
+query:      "excessive sweating"
+question:   "Which of the following is NOT a cause of diaphoresis?"
+answers:
+            "Parkinson's disease" (wrong)
+            "Mediastinum" (correct)
+            "Intrathoracic neoplasms" (wrong)
+            "Neurologic and metabolic diseases" (wrong)
+
+
+query:      "nervousness"
+question:   "A commonly prescribed drug for attenuate nervousness is:"
+answers:
+            "Taxol" (wrong)
+            "Xalatan" (wrong)
+            "Acyclovir" (wrong)
+            "Buspirone" (correct)
+
+
+query:      "sunlight causing hives"
+question:   "What makes solar urticaria different from a sunburn?"
+answers:
+            "It requires a lot longer exposure period to sunlight that the time necessary to get a sunburn" (wrong)
+            "It occurs within minutes after being exposed to sunlight" (correct)
+            "The burning feeling caused by solar urticaria lasts a lot longer that the one caused by sunburn" (wrong)
+            "Unlike sunburn, it affects the whole body at once instead of affecting only the parts that are exposed to sunlight." (wrong)
+
+
+query:      "foods to avoid with acid reflux"
+question:   "Which of these foods is UNLIKELY to cause gastroesophageal reflux?"
+answers:
+            "low-fat foods" (correct)
+            "foods containing tomatos" (wrong)
+            "coffee" (wrong)
+            "french fries" (wrong)
+
+
+query:      "trouble swallowing when eating"
+question:   "Which one of these problems can cause issue in swallowing?"
+answers:
+            "Hypophosphatasia" (wrong)
+            "Achalasia" (correct)
+            "Esophageal disease" (wrong)
+            "Bone spur" (wrong)
+
+
+query:      "how to stop a nosebleed"
+question:   "Which of the following actions may help stopping an epistaxis?"
+answers:
+            "Lean flat" (wrong)
+            "Blow nose" (wrong)
+            "Pinch the nose every 5 minutes" (correct)
+            "Put head between legs" (wrong)
+
+
+query:      "hives"
+question:   "Urticaria is often caused by"
+answers:
+            "Allergic reactions" (correct)
+            "Weight gain" (wrong)
+            "Depression" (wrong)
+            "Consuming caffeine" (wrong)
+
+
+query:      "common cold symptoms"
+question:   "Which of the following is NOT a common symptom of nasopharyngitis?"
+answers:
+            "High fever" (correct)
+            "Nasal stuffiness" (wrong)
+            "Fatigue" (wrong)
+            "Sore throat" (wrong)
+
+
+query:      "stress incontinence"
+question:   "What can cause stress incontinence?"
+answers:
+            "Childbirth" (correct)
+            "Psychological condition" (wrong)
+            "High blood pressure" (wrong)
+            "Genetic predisposition" (wrong)
+
+
+query:      "sweating sickness"
+question:   "What is "focal hyperhidrosis"?"
+answers:
+            "Excessive sweating that occurs when trying to focus" (wrong)
+            "Lack of sweating in stressful situations" (wrong)
+            "Excessive sweating in specific body regions" (correct)
+            "Lack of sweating in specific body regions" (wrong)
+
+
+query:      "bloated stomach"
+question:   "Which of the following actions can lead to abdominal bloating?"
+answers:
+            "Pollen allergies" (wrong)
+            "Consuming diet or sugar-free foods" (correct)
+            "Sore throat" (wrong)
+            "Consuming fruits" (wrong)
+
+
+query:      "blood clot"
+question:   "What is the medical term for a blood clot in a vein?"
+answers:
+            "Venous thrombosis" (correct)
+            "Venous embolus" (wrong)
+            "Arterial embolism" (wrong)
+            "Arterial thrombi" (wrong)
+
+
+query:      "sweet sweat"
+question:   "What is one of the possible side effects when using Sweet Sweat?"
+answers:
+            "It may cause circulation problems in stomach or upper thighs" (wrong)
+            "It may cause an uptick in the thermogenic process" (correct)
+            "It may cause irritations on the skin" (wrong)
+            "It may cause an increase in blood pressure" (wrong)
+
+
+query:      "kidney failure symptoms"
+question:   "Which of these symptoms is NOT associated with renal insufficiency"
+answers:
+            "Shortness of breath" (correct)
+            "Weight Loss" (wrong)
+            "Itching" (wrong)
+            "High potassium concentration in blood" (wrong)
+
+
+query:      "trouble swallowing"
+question:   "Which of these tests is commonly used to detect a swallowing problem?"
+answers:
+            "Ophthalmoscopy" (wrong)
+            "Nasal endoscopy" (wrong)
+            "Cineradiography" (correct)
+            "Laryngoscopy" (wrong)
+
+
+query:      "heat stroke"
+question:   "Which of the following is NOT a common symptom of heat exhaustion?"
+answers:
+            "Nausea" (wrong)
+            "Slow pulse" (correct)
+            "Dry skin" (wrong)
+            "Hot skin" (wrong)
+
+
+query:      "spontaneous abortion"
+question:   "Which disease DOES NOT statistically increase the rate of miscarriage?"
+answers:
+            "Autoimmune disease" (wrong)
+            "Glucagonoma" (correct)
+            "Diabetes mellitus" (wrong)
+            "Hypothyroidism" (wrong)
+
+
+query:      "foods cause gout"
+question:   "Gout is unlikely to be caused by"
+answers:
+            "Eating smaller meals throughout the day instead of eating three large meals" (correct)
+            "Broccoli" (wrong)
+            "Dairy foods" (wrong)
+            "Brussel sprouts" (wrong)
+
+
+query:      "bloody stools in adults"
+question:   "Which of the following is unlikely to cause hematochezia in adults?"
+answers:
+            "Salmonellosis" (wrong)
+            "Food allergies" (correct)
+            "Upper GI bleeding" (wrong)
+            "Hemmorrhoids" (wrong)
+
+
+query:      "back problems"
+question:   "Back pain is usually caused by injury to the:"
+answers:
+            "Thoracic spine" (wrong)
+            "Spinal cord" (wrong)
+            "None of the above" (correct)
+            "Cervical spine" (wrong)
+
+
+query:      "indigestion symptoms"
+question:   "A common symptom of dyspepsia is:"
+answers:
+            "Dysphagia" (wrong)
+            "Blunt trauma" (wrong)
+            "Hemiplegia" (wrong)
+            "Belching" (correct)
+
+
+query:      "shaking hands"
+question:   "What are rest tremors?"
+answers:
+            "Involuntary movement that happen when the body is at rest" (correct)
+            "The inability of keeping hands in a resting position." (wrong)
+            "an increase in shakiness when the patient tries to rest" (wrong)
+            "hands movements when the temperature is very low" (wrong)
+
+
+query:      "ringing ears"
+question:   "What is objective tinnitus?"
+answers:
+            "An actual sound coming from the ear of a person" (correct)
+            " A symptom of ringing ears" (wrong)
+            "A treatment for ringing ears" (wrong)
+            "A perceived sound from a patient caused by exposure to excessive sounds" (wrong)
+
+
+query:      "memory loss"
+question:   "Which of the following is a type of amnesia?"
+answers:
+            "Crossexposed amnesia" (wrong)
+            "Retrograde amnesia" (correct)
+            "Fragmented amnesia" (wrong)
+            "Parallel amnesia" (wrong)
+
+
+query:      "nosebleed"
+question:   "Which of these conditions is NOT a predisposition factor for nosebleed?"
+answers:
+            "Sinus infection" (wrong)
+            "Diabetes" (correct)
+            "Allergies" (wrong)
+            "Hypertension" (wrong)
+
+
+query:      "brown vaginal discharge"
+question:   "Brown mucopurulent discharge can be caused by:"
+answers:
+            "Trichomoniasis" (wrong)
+            "Endometrial cancer" (correct)
+            "Yeast infection" (wrong)
+            "Influenza" (wrong)
+
+
+query:      "memory loss in women"
+question:   "Memory impairment is most commonly caused by:"
+answers:
+            "Unbalanced diet" (wrong)
+            "Sudden motion" (wrong)
+            "High blood pressure" (wrong)
+            "Depression" (correct)
+
+
+query:      "pressure ulcers"
+question:   "What is the most common cause for pressure ulcers?"
+answers:
+            "Lack of hygiene" (wrong)
+            "Pysical injury" (wrong)
+            "Limited ability to move" (correct)
+            "Skin rushes" (wrong)
+
+
+query:      "acid reflux symptoms"
+question:   "Which of these symptoms is a symptom of GERD?"
+answers:
+            "feeling of having food stuck in one's throat" (correct)
+            "restlessness" (wrong)
+            "dry eyes" (wrong)
+            "feelings of discontent" (wrong)
+
+
+query:      "what causes hair loss in women"
+question:   "What is alopecia areata?"
+answers:
+            "Loss of hair on all the body" (wrong)
+            "Loss of hair in some spots on the body" (correct)
+            "A risk factor for hair loss" (wrong)
+            "Treatment for loss of hair" (wrong)
+
+
+query:      "erectile dysfunction remedies"
+question:   "Impotentia coeundi is commonly caused by:"
+answers:
+            "Pollen allergies" (wrong)
+            "Anti-depressants" (correct)
+            "Insomnia" (wrong)
+            "Lack of movement" (wrong)
+
+
+query:      "tooth ache"
+question:   "Which part of the mouth does "gum disease" affect?"
+answers:
+            "Periodontium" (correct)
+            "Salivary glands" (wrong)
+            "Enamel" (wrong)
+            "Dentin" (wrong)
+
+
+query:      "acid reflux"
+question:   "Which of these conditions causes symptoms similar to those caused by acid reflux disease?"
+answers:
+            "Asthma, GORD, and dysphagia" (wrong)
+            "GERD and heartburn" (wrong)
+            "GERD, heartburn, and asthma" (correct)
+            "GERD, GORD, and heartburn" (wrong)
+
+
+query:      "double vision causes"
+question:   "Which of the following is NOT a common cause of diplopia?"
+answers:
+            "Cataracts" (wrong)
+            "Corneal scars" (wrong)
+            "Dryness" (wrong)
+            "Trichomoniasis" (correct)
